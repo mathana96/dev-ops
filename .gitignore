@@ -1,0 +1,5 @@
+*.zip
+*.pem
+*.csv
+transfer_files_command.txt
+/lab01
